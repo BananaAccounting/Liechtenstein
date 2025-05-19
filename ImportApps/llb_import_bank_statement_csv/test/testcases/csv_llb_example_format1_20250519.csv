@@ -1,0 +1,29 @@
+﻿"Buchungsdatum","Geplante Umsätze","Buchungstext","Referenz-Nr.","Valutadatum","Betrag","Betrag in Referenzwährung","Saldo in CHF","Beleg","Kategorie","Umrechnungskurs"
+
+"31.03.2025","","Gebühren
+Test
+Periode 01.01.2025-31.03.2025
+Auftragsnummer: 724620485","724620485","31.03.2025","CHF - 12.50","","79’746.29","","",""
+
+"31.03.2025","","Gebühren
+Test
+Periode 01.01.2025-31.03.2025
+Auftragsnummer: 724613834","724613834","31.03.2025","CHF - 60.00","","79’758.79","","",""
+
+"31.03.2025","","E-Banking Zahlung
+Test
+Test
+
+Auftragsnummer: 724400584","724400584","01.04.2025","CHF - 3’810.00","","79’818.79","","",""
+
+"31.03.2025","","E-Banking Zahlung
+Test
+Test
+
+Auftragsnummer: 724400557","724400557","01.04.2025","CHF - 1’107.95","","83’628.79","","",""
+
+"21.03.2025","","Gutschrift
+Test
+Test
+Test
+Auftragsnummer: 722267465","722267465","21.03.2025","CHF 24’573.30","","131’923.44","","",""

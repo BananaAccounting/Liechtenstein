@@ -1,0 +1,19 @@
+{
+    "category": "import",
+    "country": "liechtenstein",
+    "countryCode": "ch",
+    "description": "Liechtensteinische Landesbank - Import account statement .csv (Banana+ Advanced)",
+    "description.en": "Liechtensteinische Landesbank - Import account statement .csv (Banana+ Advanced)",
+    "description.de": "Liechtensteinische Landesbank -  Bewegungen importieren .csv (Banana+ Advanced)",
+    "description.fr": "Liechtensteinische Landesbank - Importer mouvements .csv (Banana+ Advanced)",
+    "description.it": "Liechtensteinische Landesbank - Importa movimenti .csv (Banana+ Advanced)",
+    "id": "ch.banana.liechtenstein.import.llb",
+    "language": "en",
+    "publisher": "Banana.ch",
+    "title": "Liechtensteinische Landesbank - Import account statement .csv (Banana+ Advanced)",
+    "title.en": "Liechtensteinische Landesbank - Import account statement .csv (Banana+ Advanced)",
+    "title.de": "Liechtensteinische Landesbank -  Bewegungen importieren .csv (Banana+ Advanced)",
+    "title.fr": "Liechtensteinische Landesbank - Importer mouvements .csv (Banana+ Advanced)",
+    "title.it": "Liechtensteinische Landesbank - Importa movimenti .csv (Banana+ Advanced)",
+    "version": "1.0"
+}
